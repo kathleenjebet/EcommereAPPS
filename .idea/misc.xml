@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/EcommereAPPS/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/EcommereAPPS/app/src/main/res/drawable/login_background.xml" value="0.1935" />
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/EcommereAPPS/app/src/main/res/layout/activity_home.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/EcommereAPPS/app/src/main/res/layout/activity_main.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/EcommereAPPS/app/src/main/res/layout/activity_slideractivity.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/EcommereAPPS/app/src/main/res/layout/activity_splash.xml" value="0.12027027027027028" />
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/EcommereAPPS/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2585" />
       </map>
     </option>
   </component>
